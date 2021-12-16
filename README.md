@@ -3,6 +3,7 @@
 OptiScan SDK Integration Steps 
 
 To use our Xamarin package in another app , proceed as follows: 
+
 1.Please Download and install the nuget package and mentioned version 
 Dependency Required
 ```
