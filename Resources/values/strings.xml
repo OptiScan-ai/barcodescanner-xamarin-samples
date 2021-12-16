@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">barcodescanner_xamarin_samples</string>
+    <string name="app_name">OptiScanDemo</string>
     <string name="action_settings">Settings</string>
 </resources>
