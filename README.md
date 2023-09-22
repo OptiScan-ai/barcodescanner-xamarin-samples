@@ -1,6 +1,6 @@
-# OptiScan Xamarin Demo APP 
+# Scanflow Xamarin Demo APP 
 
-OptiScan SDK Integration Steps 
+Scanflow SDK Integration Steps 
 
 To use our Xamarin package in another app , proceed as follows: 
 
